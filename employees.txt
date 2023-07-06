@@ -1,0 +1,6 @@
+Jay - Manager
+Dwight -Salesman
+Pam - Receptionist
+Michael - Salesman
+Oscar - Accountant
+Brook - Driver
